@@ -53,6 +53,8 @@ During my time at the Warsaw University of Technology, I’ve worked on some exc
 ### 🎮 For Fun & Miscellaneous Projects
 Not everything has to be serious! Here are some projects I work on for fun or experimentation:
 
+- [Genom Motif Analyzer](https://github.com/mvishiu11/Genome-Motif-Analyzer): A simple, yet elegant tool for identifying, analyzing, and visualizing DNA motifs in genome sequences using BioPython.
+
 - [graphs-isomorphism](https://github.com/mvishiu11/graphs_isomorphism): A Python project for checking isomorphism in simple, undirected graphs. Includes a neat visualization tool using PyVis.
 
 - [AdventOfCode2023](https://github.com/mvishiu11/adventofcode2023): My solutions to Advent of Code 2023. I'm learning Go in the process but may switch to C, C++, or Python when things get tricky (or when I feel adventurous).
