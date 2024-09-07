@@ -22,6 +22,7 @@ I'm driven by the passion to merge engineering with business strategy, crafting 
 Delving deep into the core fundamentals of computing, because sometimes the most 'basic' things are deceptively complex. Here are some projects where I strip everything down to the bare metal to understand how things really work:
 
 - [rustylox](https://github.com/mvishiu11/rustylox) - My own interpreter for the Lox language, crafted in Rust, inspired by the *Crafting Interpreters* book. Also provides [live playground](https://mvishiu11.github.io/rustylox-playground).
+- [CoreLox](https://github.com/mvishiu11/CoreLox) - While RustyLox brought Lox to life in Rust, CoreLox strips it down to its essentials—minimalist, efficient, and purpose-driven. This is Lox interpretation, closer to the metal. 
 - [torchlet](https://github.com/mvishiu11/torchlet) - A neural network library influenced by Andrej Karpathy's Micrograd, extended to integrate seamlessly with PyTorch. Includes essential optimizations and C extensions for heavy computations via Cython.
 - [grep](https://github.com/mvishiu11/grep) - A reimagined take on the classic regex matching tool, built from scratch with handcrafted regex logic.
 <!-- - **carbonlox** - An evolution of rustylox, rewritten in C with a bytecode-based architecture that boosts speed significantly. -->
