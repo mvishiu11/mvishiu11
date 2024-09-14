@@ -74,7 +74,7 @@ Not everything has to be serious! Here are some projects I work on for fun or ex
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/jakub-muszyński-51133a273)
 
 ---
 
