@@ -40,8 +40,6 @@ Artificial Intelligence is a constant in my work, and I've tackled numerous appl
 
 ---
 
-// CUDA Projects with an icon of NVIDIA CUDA
-
 ### CUDA Projects
 I'm a big fan of GPU acceleration, and I've worked on several projects that leverage the power of NVIDIA CUDA for high-performance computing. Here are a few examples:
 
@@ -68,8 +66,6 @@ During my time at the Warsaw University of Technology, I’ve worked on some exc
 Not everything has to be serious! Here are some projects I work on for fun or experimentation:
 
 - [Genom Motif Analyzer](https://github.com/mvishiu11/Genome-Motif-Analyzer): A simple, yet elegant tool for identifying, analyzing, and visualizing DNA motifs in genome sequences using BioPython.
-
-- [CUDA-NPP-EdgeDetection](https://github.com/mvishiu11/CUDA-NPP-EdgeDetection): This project showcases a GPU-accelerated edge detection pipeline using both a custom Sobel filter implemented in CUDA and the highly optimized NVIDIA NPP library. 
 
 - [graphs-isomorphism](https://github.com/mvishiu11/graphs_isomorphism): A Python project for checking isomorphism in simple, undirected graphs. Includes a neat visualization tool using PyVis.
 
