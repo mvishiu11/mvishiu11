@@ -40,6 +40,19 @@ Artificial Intelligence is a constant in my work, and I've tackled numerous appl
 
 ---
 
+// CUDA Projects with an icon of NVIDIA CUDA
+
+### CUDA Projects
+I'm a big fan of GPU acceleration, and I've worked on several projects that leverage the power of NVIDIA CUDA for high-performance computing. Here are a few examples:
+
+- [CUDA-NPP-EdgeDetection](https://github.com/mvishiu11/CUDA-NPP-EdgeDetection) - A GPU-accelerated edge detection pipeline using both a custom Sobel filter implemented in CUDA and the highly optimized NVIDIA NPP library.
+
+- [hamming-one](https://github.com/mvishiu11/hamming-one): CUDA-optimized, massively parallelized Hamming one algorithm in \( O(n * l) \) amortized time complexity for finding the closest string in a set of binary strings.
+
+- [electrostatic-simulation](https://github.com/mvishiu11/electrostatic-simulation) - Implementation of a CUDA-accelerated simulation of an electrostatic field with visualized particles (protons and electrons) in a 2D space. The simulation is capable of displaying the electrostatic field, showing particle interactions, and visualizing these in real time at 30 FPS or higher. 
+
+---
+
 ### 🎓 Academic Projects at Warsaw University of Technology
 During my time at the Warsaw University of Technology, I’ve worked on some exciting and challenging projects. Here's a sneak peek:
 
