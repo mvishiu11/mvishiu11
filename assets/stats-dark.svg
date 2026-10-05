@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="GitHub statistics for mvishiu11: 13 stars, 457 commits last year, rank B+">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-label="GitHub statistics for mvishiu11: 13 stars, 394 commits last year, rank B+">
 <defs><pattern id="g" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#172A40" stroke-width="1"/></pattern></defs>
 <rect width="900" height="360" fill="#0E1A29"/><rect width="900" height="360" fill="url(#g)"/>
 <rect x="8" y="8" width="884" height="344" fill="none" stroke="#E4ECF4" stroke-width="1.5"/>
@@ -9,7 +9,7 @@
 <text x="306" y="62" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E4ECF4">13</text>
 <line x1="24" y1="72" x2="306" y2="72" stroke="#2B4260" stroke-width="1"/>
 <text x="24" y="92" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#9DB0C4">Commits, last 12 months</text>
-<text x="306" y="92" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E4ECF4">457</text>
+<text x="306" y="92" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E4ECF4">394</text>
 <line x1="24" y1="102" x2="306" y2="102" stroke="#2B4260" stroke-width="1"/>
 <text x="24" y="122" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#9DB0C4">Pull requests</text>
 <text x="306" y="122" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" fill="#E4ECF4">109</text>
@@ -28,7 +28,7 @@
 <text x="400" y="58" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9DB0C4" letter-spacing="0.8">RANK</text>
 <text x="400" y="150" text-anchor="middle" font-family="'Archivo Narrow', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" fill="#E4ECF4">B+</text>
 <ellipse cx="402" cy="130" rx="44" ry="38" transform="rotate(-8 400 128)" fill="none" stroke="#FF7A7A" stroke-width="2.2"/>
-<text x="400" y="198" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9DB0C4">top 47%</text>
+<text x="400" y="198" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9DB0C4">top 48%</text>
 <text x="494" y="58" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9DB0C4" letter-spacing="0.8">LANGUAGES, BY BYTES OF CODE</text>
 <rect x="494.0" y="70" width="101.2" height="10" fill="#FF7A7A"/>
 <rect x="595.2" y="70" width="91.0" height="10" fill="#B9C8D7"/>
@@ -57,7 +57,7 @@
 <text x="860.0" y="164" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9DB0C4">7.4%</text>
 <line x1="8" y1="236" x2="892" y2="236" stroke="#E4ECF4" stroke-width="1"/>
 <text x="24" y="256" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9DB0C4" letter-spacing="0.8">CONTRIBUTIONS, LAST 12 MONTHS</text>
-<text x="876" y="256" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#E4ECF4">533</text>
+<text x="876" y="256" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#E4ECF4">536</text>
 <rect x="24.0" y="266.0" width="10.0" height="10.0" fill="#152438"/>
 <rect x="24.0" y="278.0" width="10.0" height="10.0" fill="#152438"/>
 <rect x="24.0" y="290.0" width="10.0" height="10.0" fill="#152438"/>
@@ -421,5 +421,5 @@
 <rect x="859.6" y="302.0" width="10.0" height="10.0" fill="#152438"/>
 <rect x="859.6" y="314.0" width="10.0" height="10.0" fill="#E4ECF4" fill-opacity="0.55"/>
 <rect x="859.6" y="326.0" width="10.0" height="10.0" fill="#152438"/>
-<rect x="859.6" y="338.0" width="10.0" height="10.0" fill="#E4ECF4" fill-opacity="0.52"/>
+<rect x="859.6" y="338.0" width="10.0" height="10.0" fill="#E4ECF4" fill-opacity="0.59"/>
 </svg>
