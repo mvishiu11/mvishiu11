@@ -40,6 +40,15 @@ Previously: production C++ for the **ALICE** experiment at **CERN** (2025–26),
 | **ML** | [torchlet](https://github.com/mvishiu11/torchlet) | Autograd library in the spirit of micrograd, with Cython extensions. |
 | | [KANwise](https://github.com/mvishiu11/KANwise) | Kolmogorov–Arnold Networks in PyTorch with a Keras-like API. |
 
+### By the numbers
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="GitHub statistics: stars, commits, rank, top languages and contributions over the last 12 months" src="assets/stats-light.svg" width="100%">
+</picture>
+
+<sub>Regenerated daily from public GitHub data by <a href=".github/workflows/stats.yml">a workflow in this repo</a>. Rank uses the github-readme-stats formula.</sub>
+
 ### Toolbox
 
 ![Python](https://img.shields.io/badge/Python-1B2024?style=flat-square&logo=python&logoColor=white)
