@@ -7,7 +7,7 @@
 
 I'm an engineer and founder in Warsaw. I like problems where almost right is the same as wrong: detector software at CERN, LLM inference at TSMC, risk systems at Point72, and two companies of my own. On the research side, I work on explaining what neural networks actually listen to.
 
-[**Website**](https://jakubmuszynski.eu) | [**Writing**](https://jakubmuszynski.eu/writing/) | [LinkedIn](https://www.linkedin.com/in/jakub-muszyński-51133a273) | [ORCID](https://orcid.org/0009-0000-2797-6044) | [ACL Anthology](https://aclanthology.org/people/jakub-muszynski/)
+[**Website**](https://jakubmuszynski.eu) | [LinkedIn](https://www.linkedin.com/in/jakub-muszyński-51133a273) | [ORCID](https://orcid.org/0009-0000-2797-6044) | [ACL Anthology](https://aclanthology.org/people/jakub-muszynski/)
 
 ### Now
 
