@@ -144,6 +144,10 @@ def fmt(n):
     return f"{n:,}".replace(",", " ")
 
 
+def days_label(n):
+    return f"{n} day" if n == 1 else f"{n} days"
+
+
 def dshort(s):
     return datetime.fromisoformat(s).strftime("%-d %b %Y") if s else "none"
 
@@ -164,8 +168,8 @@ def render(t):
     # three big figures
     figs = [
         ("TOTAL CONTRIBUTIONS", fmt(totals["total_contributions"]), f'{dshort(totals["joined"])} to today'),
-        ("LONGEST STREAK", f'{totals["longest_streak"]["days"]} days', f'{dshort(totals["longest_streak"]["from"])} to {dshort(totals["longest_streak"]["to"])}'),
-        ("CURRENT STREAK", f'{totals["current_streak"]["days"]} days', (f'since {dshort(totals["current_streak"]["from"])}' if totals["current_streak"]["days"] else "start one today")),
+        ("LONGEST STREAK", days_label(totals["longest_streak"]["days"]), f'{dshort(totals["longest_streak"]["from"])} to {dshort(totals["longest_streak"]["to"])}'),
+        ("CURRENT STREAK", days_label(totals["current_streak"]["days"]), (f'since {dshort(totals["current_streak"]["from"])}' if totals["current_streak"]["days"] else "start one today")),
     ]
     cw = (W - 16) / 3
     for i, (label, big, sub) in enumerate(figs):
