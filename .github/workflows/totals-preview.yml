@@ -1,0 +1,32 @@
+# Preview only: computes all-time totals and streaks on the totals-preview branch.
+# Not linked from the README; nothing here touches main.
+name: Totals preview
+
+on:
+  push:
+    branches: [totals-preview]
+    paths:
+      - "scripts/totals.py"
+      - ".github/workflows/totals-preview.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  totals:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compute totals
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
+        run: python3 scripts/totals.py
+      - name: Commit preview
+        run: |
+          if [ -z "$(git status --porcelain -- preview)" ]; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add preview
+          git commit -m "Update totals preview"
+          git push
