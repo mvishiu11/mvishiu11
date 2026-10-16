@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16 20:09 UTC",
+  "generated": "2026-10-16 20:12 UTC",
   "joined": "2022-10-19",
   "total_contributions": 2861,
   "total_commits_all_time_search": 1146,
@@ -64,5 +64,678 @@
       "issues": 0,
       "reviews": 9
     }
-  ]
+  ],
+  "by_repo": {
+    "Pawlo77/MLLM-Shap-legacy": {
+      "private": false,
+      "fork": false,
+      "commits": 147,
+      "prs": 43,
+      "issues": 0,
+      "reviews": 20,
+      "years": {
+        "2025": 148,
+        "2026": 62
+      },
+      "total": 210
+    },
+    "mvishiu11/energy-twin": {
+      "private": false,
+      "fork": false,
+      "commits": 81,
+      "prs": 21,
+      "issues": 15,
+      "reviews": 7,
+      "years": {
+        "2025": 124
+      },
+      "total": 124
+    },
+    "mvishiu11/CoreLox": {
+      "private": false,
+      "fork": false,
+      "commits": 120,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 111,
+        "2025": 9
+      },
+      "total": 120
+    },
+    "mvishiu11/Speech2Text": {
+      "private": false,
+      "fork": false,
+      "commits": 87,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 88
+      },
+      "total": 88
+    },
+    "mvishiu11/graphs_isomorphism": {
+      "private": false,
+      "fork": false,
+      "commits": 69,
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2023": 74
+      },
+      "total": 74
+    },
+    "mvishiu11/rustylox": {
+      "private": false,
+      "fork": false,
+      "commits": 64,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 64
+      },
+      "total": 64
+    },
+    "mvishiu11/cars-mobile": {
+      "private": false,
+      "fork": false,
+      "commits": 53,
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1,
+      "years": {
+        "2025": 60
+      },
+      "total": 60
+    },
+    "mvishiu11/jakub-muszynski": {
+      "private": false,
+      "fork": false,
+      "commits": 38,
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 32,
+        "2026": 9
+      },
+      "total": 41
+    },
+    "mvishiu11/ImageFilteringApp": {
+      "private": false,
+      "fork": false,
+      "commits": 40,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 41
+      },
+      "total": 41
+    },
+    "TwoGuysCoding/medwave-toolbox-playground": {
+      "private": false,
+      "fork": false,
+      "commits": 31,
+      "prs": 5,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 36
+      },
+      "total": 36
+    },
+    "mvishiu11/mvishiu11": {
+      "private": false,
+      "fork": false,
+      "commits": 25,
+      "prs": 2,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 16,
+        "2025": 3,
+        "2026": 8
+      },
+      "total": 27
+    },
+    "mvishiu11/LHC-aging-analysis": {
+      "private": false,
+      "fork": false,
+      "commits": 26,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 26
+      },
+      "total": 26
+    },
+    "mvishiu11/AdventOfCode2023": {
+      "private": false,
+      "fork": false,
+      "commits": 24,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2023": 24
+      },
+      "total": 24
+    },
+    "mvishiu11/KANwise": {
+      "private": false,
+      "fork": false,
+      "commits": 24,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 24
+      },
+      "total": 24
+    },
+    "mvishiu11/shap-mllm-explainer": {
+      "private": false,
+      "fork": false,
+      "commits": 20,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 14,
+        "2026": 7
+      },
+      "total": 21
+    },
+    "FiedorPw/HackatonGS": {
+      "private": false,
+      "fork": false,
+      "commits": 20,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 20
+      },
+      "total": 20
+    },
+    "mvishiu11/rustylox-playground": {
+      "private": false,
+      "fork": false,
+      "commits": 20,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 20
+      },
+      "total": 20
+    },
+    "mvishiu11/WIND": {
+      "private": false,
+      "fork": false,
+      "commits": 19,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 16,
+        "2026": 4
+      },
+      "total": 20
+    },
+    "mvishiu11/grep": {
+      "private": false,
+      "fork": false,
+      "commits": 18,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 18
+      },
+      "total": 18
+    },
+    "mvishiu11/torchlet": {
+      "private": false,
+      "fork": false,
+      "commits": 17,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 17
+      },
+      "total": 17
+    },
+    "mvishiu11/CMDChain": {
+      "private": false,
+      "fork": false,
+      "commits": 17,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 17
+      },
+      "total": 17
+    },
+    "mvishiu11/hamming-one": {
+      "private": false,
+      "fork": false,
+      "commits": 15,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 15
+      },
+      "total": 15
+    },
+    "mvishiu11/bookshelf": {
+      "private": false,
+      "fork": false,
+      "commits": 10,
+      "prs": 3,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 13
+      },
+      "total": 13
+    },
+    "mvishiu11/iml-voice-recognition": {
+      "private": false,
+      "fork": false,
+      "commits": 10,
+      "prs": 2,
+      "issues": 0,
+      "reviews": 1,
+      "years": {
+        "2024": 12,
+        "2025": 1
+      },
+      "total": 13
+    },
+    "mvishiu11/ADS": {
+      "private": false,
+      "fork": false,
+      "commits": 12,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2023": 2,
+        "2024": 10
+      },
+      "total": 12
+    },
+    "mvishiu11/CUDA-NPP-EdgeDetection": {
+      "private": false,
+      "fork": false,
+      "commits": 12,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 12
+      },
+      "total": 12
+    },
+    "MA-RD/.github": {
+      "private": false,
+      "fork": false,
+      "commits": 12,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 11,
+        "2026": 1
+      },
+      "total": 12
+    },
+    "mvishiu11/BattleshipsGame": {
+      "private": false,
+      "fork": false,
+      "commits": 11,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 11
+      },
+      "total": 11
+    },
+    "mvishiu11/Genome-Motif-Analyzer": {
+      "private": false,
+      "fork": false,
+      "commits": 11,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 11
+      },
+      "total": 11
+    },
+    "mvishiu11/C-projects": {
+      "private": false,
+      "fork": false,
+      "commits": 10,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2022": 10
+      },
+      "total": 10
+    },
+    "mvishiu11/lox-playground": {
+      "private": false,
+      "fork": false,
+      "commits": 10,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 10
+      },
+      "total": 10
+    },
+    "AliceO2Group/QualityControl": {
+      "private": false,
+      "fork": false,
+      "commits": 4,
+      "prs": 6,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 10
+      },
+      "total": 10
+    },
+    "BeerHobbyist/zoomer-shell": {
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 7
+      },
+      "total": 7
+    },
+    "mvishiu11/code-completions": {
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 7
+      },
+      "total": 7
+    },
+    "pzanLabs/CDShop": {
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 7
+      },
+      "total": 7
+    },
+    "mvishiu11/jobsearch_agent": {
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 7
+      },
+      "total": 7
+    },
+    "mvishiu11/kmeans-clustering": {
+      "private": false,
+      "fork": false,
+      "commits": 7,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 7
+      },
+      "total": 7
+    },
+    "mvishiu11/QualityControl": {
+      "private": false,
+      "fork": true,
+      "commits": 0,
+      "prs": 6,
+      "issues": 0,
+      "reviews": 1,
+      "years": {
+        "2025": 7
+      },
+      "total": 7
+    },
+    "TwoGuysCoding/medwave-docs": {
+      "private": false,
+      "fork": false,
+      "commits": 6,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 6
+      },
+      "total": 6
+    },
+    "mvishiu11/electrostatic-simulation": {
+      "private": false,
+      "fork": false,
+      "commits": 5,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 5
+      },
+      "total": 5
+    },
+    "mvishiu11/tsp-solver": {
+      "private": false,
+      "fork": false,
+      "commits": 5,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 5
+      },
+      "total": 5
+    },
+    "Kolo-Naukowe-Data-Science-PW/Rekrutacja_2023": {
+      "private": false,
+      "fork": false,
+      "commits": 3,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2023": 4
+      },
+      "total": 4
+    },
+    "mvishiu11/LHC-display": {
+      "private": false,
+      "fork": false,
+      "commits": 4,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 4
+      },
+      "total": 4
+    },
+    "mvishiu11/tokenization-platform": {
+      "private": false,
+      "fork": false,
+      "commits": 4,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 4
+      },
+      "total": 4
+    },
+    "arion023/KNR-droniada": {
+      "private": false,
+      "fork": false,
+      "commits": 3,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 3
+      },
+      "total": 3
+    },
+    "TwoGuysCoding/MinutesWPF": {
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "prs": 0,
+      "issues": 2,
+      "reviews": 0,
+      "years": {
+        "2024": 3
+      },
+      "total": 3
+    },
+    "mvishiu11/se2-mini-2025-w1-jakubmuszynski": {
+      "private": false,
+      "fork": false,
+      "commits": 3,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 3
+      },
+      "total": 3
+    },
+    "mvishiu11/MESADiseaseSpread": {
+      "private": false,
+      "fork": false,
+      "commits": 3,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 3
+      },
+      "total": 3
+    },
+    "mvishiu11/JADEDeliverySystem": {
+      "private": false,
+      "fork": false,
+      "commits": 3,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 3
+      },
+      "total": 3
+    },
+    "mvishiu11/AAC": {
+      "private": false,
+      "fork": false,
+      "commits": 2,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 2,
+        "2026": 1
+      },
+      "total": 3
+    },
+    "mvishiu11/jade-pomodoro-counter": {
+      "private": false,
+      "fork": false,
+      "commits": 2,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 2
+      },
+      "total": 2
+    },
+    "MA-RD/IrradianceExtractor": {
+      "private": false,
+      "fork": false,
+      "commits": 2,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 2
+      },
+      "total": 2
+    },
+    "mvishiu11/CodeBreather": {
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2024": 1
+      },
+      "total": 1
+    },
+    "AliceO2Group/AliceO2": {
+      "private": false,
+      "fork": false,
+      "commits": 0,
+      "prs": 1,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2025": 1
+      },
+      "total": 1
+    },
+    "mvishiu11/smr-kit": {
+      "private": false,
+      "fork": false,
+      "commits": 1,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0,
+      "years": {
+        "2026": 1
+      },
+      "total": 1
+    }
+  }
 }
