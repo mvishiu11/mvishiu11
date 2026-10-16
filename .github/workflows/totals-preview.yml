@@ -7,6 +7,7 @@ on:
     branches: [totals-preview]
     paths:
       - "scripts/totals.py"
+      - "scripts/dump.py"
       - ".github/workflows/totals-preview.yml"
   workflow_dispatch:
 
@@ -21,7 +22,9 @@ jobs:
       - name: Compute totals
         env:
           GH_TOKEN: ${{ secrets.STATS_TOKEN || github.token }}
-        run: python3 scripts/totals.py
+        run: |
+          python3 scripts/totals.py
+          python3 scripts/dump.py
       - name: Commit preview
         run: |
           if [ -z "$(git status --porcelain -- preview)" ]; then echo "No changes"; exit 0; fi
