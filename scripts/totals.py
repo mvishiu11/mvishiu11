@@ -61,8 +61,13 @@ YEAR_Q = """query($login: String!, $from: DateTime!, $to: DateTime!) { user(logi
     totalIssueContributions
     totalPullRequestReviewContributions
     contributionCalendar { totalContributions weeks { contributionDays { date contributionCount } } }
+    commitContributionsByRepository(maxRepositories: 100) { repository { nameWithOwner isPrivate isFork } contributions { totalCount } }
+    pullRequestContributionsByRepository(maxRepositories: 100) { repository { nameWithOwner isPrivate isFork } contributions { totalCount } }
+    issueContributionsByRepository(maxRepositories: 100) { repository { nameWithOwner isPrivate isFork } contributions { totalCount } }
+    pullRequestReviewContributionsByRepository(maxRepositories: 100) { repository { nameWithOwner isPrivate isFork } contributions { totalCount } }
   }
 } }"""
+by_repo = {}
 
 created = datetime.fromisoformat(BASE["createdAt"].replace("Z", "+00:00"))
 now = datetime.now(timezone.utc)
@@ -76,6 +81,14 @@ for year in range(created.year, now.year + 1):
         for d in w["contributionDays"]:
             if start.date().isoformat() <= d["date"] <= end.date().isoformat():
                 days[d["date"]] = d["contributionCount"]
+    for kind, key in [("commits", "commitContributionsByRepository"), ("prs", "pullRequestContributionsByRepository"),
+                      ("issues", "issueContributionsByRepository"), ("reviews", "pullRequestReviewContributionsByRepository")]:
+        for item in cc[key]:
+            r = item["repository"]
+            rec = by_repo.setdefault(r["nameWithOwner"], {"private": r["isPrivate"], "fork": r["isFork"], "commits": 0, "prs": 0, "issues": 0, "reviews": 0, "years": {}})
+            n = item["contributions"]["totalCount"]
+            rec[kind] += n
+            rec["years"][str(year)] = rec["years"].get(str(year), 0) + n
     per_year.append({
         "year": year,
         "contributions": cc["contributionCalendar"]["totalContributions"],
@@ -125,11 +138,14 @@ totals = {
     "longest_streak": {"days": longest[0], "from": longest[1], "to": longest[2]},
     "per_year": per_year,
 }
+for rec in by_repo.values():
+    rec["total"] = rec["commits"] + rec["prs"] + rec["issues"] + rec["reviews"]
+totals["by_repo"] = dict(sorted(by_repo.items(), key=lambda kv: -kv[1]["total"]))
 
 os.makedirs(OUT, exist_ok=True)
 with open(os.path.join(OUT, "totals.json"), "w") as f:
     json.dump(totals, f, indent=2)
-print(json.dumps({k: v for k, v in totals.items() if k != "per_year"}, indent=2))
+print(json.dumps({k: v for k, v in totals.items() if k not in ("per_year", "by_repo")}, indent=2))
 
 # ---------- preview card, drawing-sheet style ----------
 THEMES = {
