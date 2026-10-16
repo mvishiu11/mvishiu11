@@ -1,0 +1,68 @@
+{
+  "generated": "2026-10-16 20:07 UTC",
+  "joined": "2022-10-19",
+  "total_contributions": 2861,
+  "total_commits_all_time_search": 1146,
+  "commit_contributions_all_years": 2389,
+  "total_prs": 109,
+  "total_issues": 17,
+  "followers": 6,
+  "contributed_to": 3,
+  "active_days": 430,
+  "best_day": [
+    "2024-01-19",
+    43
+  ],
+  "current_streak": {
+    "days": 1,
+    "from": "2026-10-15",
+    "to": "2026-10-15"
+  },
+  "longest_streak": {
+    "days": 11,
+    "from": "2024-04-10",
+    "to": "2024-04-20"
+  },
+  "per_year": [
+    {
+      "year": 2022,
+      "contributions": 15,
+      "commits": 11,
+      "prs": 0,
+      "issues": 0,
+      "reviews": 0
+    },
+    {
+      "year": 2023,
+      "contributions": 300,
+      "commits": 254,
+      "prs": 32,
+      "issues": 0,
+      "reviews": 1
+    },
+    {
+      "year": 2024,
+      "contributions": 1347,
+      "commits": 1239,
+      "prs": 41,
+      "issues": 14,
+      "reviews": 15
+    },
+    {
+      "year": 2025,
+      "contributions": 840,
+      "commits": 611,
+      "prs": 108,
+      "issues": 57,
+      "reviews": 34
+    },
+    {
+      "year": 2026,
+      "contributions": 359,
+      "commits": 274,
+      "prs": 70,
+      "issues": 0,
+      "reviews": 9
+    }
+  ]
+}

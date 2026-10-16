@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="All-time GitHub totals for mvishiu11: 2861 contributions, longest streak 11 days">
+<defs><pattern id="g" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#172A40"/></pattern></defs>
+<rect width="900" height="300" fill="#0E1A29"/><rect width="900" height="300" fill="url(#g)"/>
+<rect x="8" y="8" width="884" height="284" fill="none" stroke="#E4ECF4" stroke-width="1.5"/>
+<line x1="8" y1="34" x2="892" y2="34" stroke="#E4ECF4"/>
+<text x="24" y="26" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9DB0C4" letter-spacing="0.6">SHEET 3 | ALL-TIME, SINCE 2022</text>
+<text x="876" y="26" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9DB0C4">REV 2026-10-16</text>
+<text x="155.3" y="60" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9DB0C4" letter-spacing="0.8">TOTAL CONTRIBUTIONS</text>
+<text x="155.3" y="112" text-anchor="middle" font-family="'Archivo Narrow', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#E4ECF4">2 861</text>
+<text x="155.3" y="146" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9DB0C4">19 Oct 2022 to today</text>
+<line x1="302.7" y1="34" x2="302.7" y2="160" stroke="#E4ECF4"/>
+<text x="450.0" y="60" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9DB0C4" letter-spacing="0.8">LONGEST STREAK</text>
+<text x="450.0" y="112" text-anchor="middle" font-family="'Archivo Narrow', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#E4ECF4">11 days</text>
+<ellipse cx="450.0" cy="96" rx="119" ry="32" transform="rotate(-4 450.0 96)" fill="none" stroke="#FF7A7A" stroke-width="2"/>
+<text x="450.0" y="146" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9DB0C4">10 Apr 2024 to 20 Apr 2024</text>
+<line x1="597.3" y1="34" x2="597.3" y2="160" stroke="#E4ECF4"/>
+<text x="744.7" y="60" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9DB0C4" letter-spacing="0.8">CURRENT STREAK</text>
+<text x="744.7" y="112" text-anchor="middle" font-family="'Archivo Narrow', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="700" fill="#E4ECF4">1 days</text>
+<text x="744.7" y="146" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#9DB0C4">since 15 Oct 2026</text>
+<line x1="8" y1="160" x2="892" y2="160" stroke="#E4ECF4"/>
+<text x="24" y="186" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9DB0C4">Commits, all time</text>
+<text x="306" y="186" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="500" fill="#E4ECF4">1 146</text>
+<line x1="24" y1="194" x2="306" y2="194" stroke="#2B4260"/>
+<text x="24" y="211" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9DB0C4">Pull requests</text>
+<text x="306" y="211" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="500" fill="#E4ECF4">109</text>
+<line x1="24" y1="219" x2="306" y2="219" stroke="#2B4260"/>
+<text x="24" y="236" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9DB0C4">Active days</text>
+<text x="306" y="236" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="500" fill="#E4ECF4">430</text>
+<line x1="24" y1="244" x2="306" y2="244" stroke="#2B4260"/>
+<text x="24" y="261" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#9DB0C4">Repos contributed to</text>
+<text x="306" y="261" text-anchor="end" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="500" fill="#E4ECF4">3</text>
+<line x1="24" y1="269" x2="306" y2="269" stroke="#2B4260"/>
+<line x1="330" y1="160" x2="330" y2="292" stroke="#E4ECF4"/>
+<text x="352" y="182" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" fill="#9DB0C4" letter-spacing="0.8">CONTRIBUTIONS PER YEAR</text>
+<rect x="358.0" y="261.3" width="92.8" height="1.0" fill="#E4ECF4"/>
+<text x="404.4" y="255.3" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#E4ECF4">15</text>
+<text x="404.4" y="278" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#9DB0C4">2022</text>
+<rect x="462.8" y="248.2" width="92.8" height="13.8" fill="#E4ECF4"/>
+<text x="509.2" y="242.2" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#E4ECF4">300</text>
+<text x="509.2" y="278" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#9DB0C4">2023</text>
+<rect x="567.6" y="200.0" width="92.8" height="62.0" fill="#FF7A7A"/>
+<text x="614.0" y="194.0" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#E4ECF4">1 347</text>
+<text x="614.0" y="278" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#9DB0C4">2024</text>
+<rect x="672.4" y="223.3" width="92.8" height="38.7" fill="#E4ECF4"/>
+<text x="718.8" y="217.3" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#E4ECF4">840</text>
+<text x="718.8" y="278" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#9DB0C4">2025</text>
+<rect x="777.2" y="245.5" width="92.8" height="16.5" fill="#E4ECF4"/>
+<text x="823.6" y="239.5" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#E4ECF4">359</text>
+<text x="823.6" y="278" text-anchor="middle" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#9DB0C4">2026</text>
+</svg>
